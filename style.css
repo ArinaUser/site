@@ -1,0 +1,15 @@
+html {
+	background-color: green;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	width: 100%;
+}
+
+table td{
+	padding: 5px 10px;	
+	text-align: center;
